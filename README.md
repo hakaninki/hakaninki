@@ -1,28 +1,32 @@
 <h1 align="center">Hi, I'm Hakan 👋</h1>
 
 <p align="center">
-Computer Engineering graduate building real products with modern web, mobile and AI tools.
+Building real products with modern web, mobile and AI tools.
 </p>
 
 <p align="center">
-I enjoy turning ideas into working applications — from <b>mobile apps</b> to <b>full-stack platforms</b> — often building everything myself and using AI tools to accelerate development.
+
+<img src="https://img.shields.io/badge/Flutter-Developer-02569B?style=for-the-badge&logo=flutter" />
+<img src="https://img.shields.io/badge/Full--Stack-Builder-000000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Tools-FF6F00?style=for-the-badge&logo=openai" />
+
 </p>
 
 ---
 
-## 🚀 What I'm building
+## 🚀 About Me
 
-- 📱 Mobile applications with **Flutter**
-- 🌐 Full-stack web applications
-- 🤖 AI-integrated tools and experiments
+Computer Engineering graduate who enjoys turning ideas into working products.
 
-Currently I’m working on two startup projects where I develop most parts of the systems myself using modern web, mobile and AI technologies.
+I like building **mobile apps, web platforms and AI-powered tools**, often developing most parts of the system myself and using AI tools to accelerate development.
+
+Currently I’m working on two startup projects where I design and develop the core systems using modern web and mobile technologies.
 
 ---
 
 ## 🧩 Featured Projects
 
-### 🆘 SOS Wristband
+### 🆘 SOS Wristband  
 Multi-tenant **QR-based emergency & medical information platform for schools.**
 
 Features include:
@@ -34,27 +38,27 @@ Features include:
 
 ---
 
-### ✈️ Eunowa Travel App
+### ✈️ Eunowa Travel App  
 A **social media platform for travelers** built with Flutter.
 
 Users can:
 
-- share travel posts
-- follow other travelers
-- like and comment on posts
-- send messages
-- discover new travel experiences
+- share travel posts  
+- follow other travelers  
+- like and comment on posts  
+- send messages  
+- discover new travel experiences  
 
 **Stack:** Flutter • Dart • Firebase
 
 ---
 
-### 🤖 AI Trip Planner
+### 🤖 AI Trip Planner  
 An experimental AI project exploring **agent-based travel planning**.
 
 The system generates **personalized travel itineraries** using AI workflows.
 
-**Stack:** TypeScript • AI APIs • Web tools
+**Stack:** TypeScript • AI APIs
 
 ---
 
@@ -66,7 +70,7 @@ The system generates **personalized travel itineraries** using AI workflows.
 
 </p>
 
-Additional tools and services I frequently use:
+Other tools I often use:
 
 - Cloudinary  
 - AI development tools  
@@ -76,11 +80,11 @@ Additional tools and services I frequently use:
 
 ## 🧠 What I'm interested in
 
-- building useful products
-- **mobile application development**
-- full-stack development
-- AI-assisted software development
-- startup projects
+- building useful products  
+- **mobile application development**  
+- full-stack development  
+- AI-assisted software development  
+- startup projects  
 
 ---
 
